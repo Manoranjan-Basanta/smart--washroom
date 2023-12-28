@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/brain"
+        android:title="Brain"
+        android:icon="@drawable/brainimg"/>
+
+    <item
+        android:id="@+id/heart"
+        android:title="Heart"
+        android:icon="@drawable/heartimg"/>
+
+    <item
+        android:id="@+id/lungs"
+        android:title="Lungs"
+        android:icon="@drawable/lungimg"/>
+
+</menu>
